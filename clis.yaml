@@ -1,0 +1,5 @@
+provider:
+  name: aws
+  services:
+    ses-email-verify-count: true
+    ses-email-quota: true

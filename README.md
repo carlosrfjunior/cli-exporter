@@ -1,2 +1,2 @@
-# cli-exporter
-Prometheus CLI exporter for Cloud Provider
+# CLIs Exporter
+Prometheus CLIs exporter for Cloud Provider
